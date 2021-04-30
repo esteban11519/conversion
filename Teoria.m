@@ -1,4 +1,4 @@
 % Calculos teoricos
 
 
-%% C
+%% PMBLDC Motor
