@@ -1,0 +1,2 @@
+SOFTWARE : FLUX2D_21.0 : 2D Finite Element Electromagnetism
+USECASE  : Flux2DMagneticTransientCartSolv3DNotSolved
